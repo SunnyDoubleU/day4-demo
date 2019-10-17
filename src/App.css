@@ -20,3 +20,21 @@
 .App-link {
   color: #09d3ac;
 }
+
+.AppNav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background: #F6883D;
+  height: 50px;
+}
+
+.AppA {
+  text-decoration: none;
+  color: white;
+  font-weight: 800;
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin: 15px 0 0 0;
+}
